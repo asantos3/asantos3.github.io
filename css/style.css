@@ -611,7 +611,8 @@ main.projects h2 {
 
 .cards-list .card {
   padding: 20px;
-  background-color: #F6F6F6;
+  background-color: #FDFDFD;
+  border: 1px solid #F6F6F6;
   border-radius: 10px; }
 
 .cards-list .card-list-title {
