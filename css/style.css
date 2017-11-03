@@ -539,7 +539,8 @@ header .nav-title {
   font-size: 3em;
   letter-spacing: 2px;
   font-weight: bold;
-  margin-bottom: 20px; }
+  margin-bottom: 15px;
+  line-height: 1em; }
 
 header nav ul {
   padding: 0px;
