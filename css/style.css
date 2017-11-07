@@ -691,7 +691,7 @@ main.projects h2 {
   border-color: #eb3f3b;
   color: #FFFFFF; }
 
-.tag-boostrap {
+.tag-bootstrap {
   font-size: 0.7em;
   padding: 0.25em 0.75em;
   background-color: #563d7c;
@@ -699,9 +699,9 @@ main.projects h2 {
   border-radius: 5px;
   color: #FFFFFF; }
 
-.tag-boostrap:hover,
-.tag-boostrap:active,
-.tag-boostrap:focus {
+.tag-bootstrap:hover,
+.tag-bootstrap:active,
+.tag-bootstrap:focus {
   background-color: #62458d;
   border-color: #6e4e9e;
   color: #FFFFFF; }
